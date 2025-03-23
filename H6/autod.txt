@@ -1,0 +1,4 @@
+Audi A4 Avant;E 167;7.3
+Ford Explorer;A 71;3.1
+Mazda 6;E 167;7.4
+Mini Countryman;D 146;6.5
