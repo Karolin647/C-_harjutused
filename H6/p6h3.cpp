@@ -1,7 +1,7 @@
 #include "p6h3.h"
 
 int main() {
-    LinkedList<Node<string>> list;
+    LinkedList<string> list;
 
     list.addElement("Alice");
     list.addElement("Bob");
